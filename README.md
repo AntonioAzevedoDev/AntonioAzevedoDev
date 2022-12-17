@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Consultoria SAP PI/PO/CPI e Desenvolvimento C# .Net
 - 🌱 Estudando Python
-- 📫 Contate-me em antonio.azevedo@evtit.com
+- 📫 Contate-me em lucassilva.eq@gmail.com
 - 😄 Pronome: ele/dele
 <div align="center">
   <a href="https://github.com/AntonioAzevedoDev">
